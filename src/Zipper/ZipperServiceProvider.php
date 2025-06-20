@@ -1,6 +1,6 @@
 <?php
 
-namespace Winsotr\Zipper;
+namespace Winstor\Zipper;
 
 use Illuminate\Foundation\AliasLoader;
 use Illuminate\Support\ServiceProvider;
